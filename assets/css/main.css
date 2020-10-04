@@ -28,6 +28,13 @@ body {
 	line-height: 1;
 }
 
+/*TakeCare!*/
+.MeinBild{
+	width: 100%;
+	max-width: 768px;
+	height: auto;
+}
+
 ol, ul {
 	list-style: none;
 }
