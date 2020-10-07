@@ -28,6 +28,13 @@ body {
 	line-height: 1;
 }
 
+.aboutMe{
+	width: 60%;
+	max-width: 720px;
+	height: auto;
+	float: right;
+
+}
 
 .MeinBild{
 	width: 100%;
